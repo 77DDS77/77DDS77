@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **6 months ago I didn't know how to write a single line of code!**
 
+- 👩🏻‍💻 Follow my Code-learning journey on my personal [EPICODE](https://github.com/77DDS77/fs0422-Davide-Dal-Santo) repository!
+
 
 
 <h3 align="left">Connect with me:</h3>
