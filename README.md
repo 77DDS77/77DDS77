@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Davide!</h1>
 <h3 align="center">A Junior Full-stack developer trying to make its way in the back-end world! 💻</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Angular, Java, SpringBoot**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Angular, Java, Spring Boot**
 
 - 📫 How to reach me **davide.dds.dalsanto@gmail.com**
 
