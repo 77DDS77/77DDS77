@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
-- 📫 How to reach me **davide.dds.dalsanto@gmail.com**
+- 📫 How to reach me **davide.dds.dalsanto@gmail.com** or [LinkedIn](https://www.linkedin.com/in/davide-dal-santo-702a0a255/)
 
 - 👩🏻‍💻 Follow my Code-learning journey on my personal [EPICODE](https://github.com/77DDS77/fs0422-Davide-Dal-Santo) repository!
 
