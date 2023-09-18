@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Davide!</h1>
 <h3 align="center">A Junior Full-stack developer who just loves to code 💻</h3>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🖥️ Currently working at [Almaviva - Digitaltec](https://www.almaviva.it/it_IT/Societa-del-gruppo/AlmavivA_Digitaltec) as Full-Stack developer.
+
+- 🗒️ Check out my CV --> [ITA](https://www.canva.com/design/DAFuyYsgl4Q/idRrT4USqfiU_QVEYKD_mQ/view?utm_content=DAFuyYsgl4Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - [ENG](https://www.canva.com/design/DAFuzQJb__Q/cnOUVSbyK587Ji4ZEftQpw/view?utm_content=DAFuzQJb__Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 📫 How to reach me **davide.dds.dalsanto@gmail.com** or [LinkedIn](https://www.linkedin.com/in/davide-dal-santo-702a0a255/)
 
