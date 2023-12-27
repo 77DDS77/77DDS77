@@ -7,6 +7,8 @@
 
 - 🗒️ Check out my CV --> [ITA](https://www.canva.com/design/DAFuyYsgl4Q/idRrT4USqfiU_QVEYKD_mQ/view?utm_content=DAFuyYsgl4Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - [ENG](https://www.canva.com/design/DAFuzQJb__Q/cnOUVSbyK587Ji4ZEftQpw/view?utm_content=DAFuzQJb__Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+- 📖 Currently learning Rust 🦀
+
 - 📫 How to reach me **davide.dds.dalsanto@gmail.com** or [LinkedIn](https://www.linkedin.com/in/davide-dal-santo-702a0a255/)
 
 - 👩🏻‍💻 Follow my Code-learning journey on my personal [EPICODE](https://github.com/77DDS77/fs0422-Davide-Dal-Santo) repository!
